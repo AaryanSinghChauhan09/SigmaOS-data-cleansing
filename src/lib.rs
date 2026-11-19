@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-cleansing: data cleansing model.
 //!
 //! Real implementation: deduplication, normalization, correction, and validation.
